@@ -1,2 +1,2 @@
-# html_portfolio
+# HTML Portfolio
 This is a simple HTML portfolio
